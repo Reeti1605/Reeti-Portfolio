@@ -139,7 +139,7 @@ export const projectData = [
             'Integrated SUMO (Simulation of Urban Mobility) to model and analyze traffic patterns across New York State with high accuracy.\n' +
             '\n',
             'Developed automated data pipelines to streamline data ingestion, processing, and analysis, optimizing simulation workflows.',
-            'Enhanced traffic simulation accuracy with real-time data feeds, enabling proactive urban traffic management solutions.',
+            'Enhanced traffic simulation accuracy with real-time data feeds, enabling proactive urban traffic management solutions',
             'Utilized AWS CloudWatch for monitoring data pipeline performance, ensuring reliability and quick response to potential issues.'
         ],
         link: '',
